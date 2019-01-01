@@ -2,7 +2,7 @@ from setuptools import setup
 
 if __name__ == "__main__":
     setup(
-        name='pickle_cache',
+        name='pickle-cache',
         version='0.1.0',
         description='Persistent caching of Python values through pickle',
         url='http://github.com/scanner-research/pickle-cache',
